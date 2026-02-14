@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "生きる",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2026-02-14T14:40:01.054137Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "生きる",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/01_生きる_東京事変.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ikiru [生きる]",
+      "artist": "Haru Nemuri",
+      "has_synced": true,
+      "path": "select/02_Ikiru_[生きる]_Haru_Nemuri.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ikiru [生きる]",
+      "artist": "Tokyo Incidents",
+      "has_synced": false,
+      "path": "select/03_Ikiru_[生きる]_Tokyo_Incidents.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "生きる",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/04_生きる_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "生きる",
+      "artist": "Tokyo Jihen",
+      "has_synced": false,
+      "path": "select/05_生きる_Tokyo_Jihen.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "生きる",
+      "artist": "Tokyo Incidents",
+      "has_synced": false,
+      "path": "select/06_生きる_Tokyo_Incidents.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "生きる。",
+      "artist": "Crazy Ken Band",
+      "has_synced": true,
+      "path": "select/07_生きる。_Crazy_Ken_Band.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "生きる",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/08_生きる_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "生きる",
+      "artist": "安野希世乃",
+      "has_synced": true,
+      "path": "select/09_生きる_安野希世乃.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "生きる",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/10_生きる_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "生きる",
+      "artist": "人間椅子",
+      "has_synced": true,
+      "path": "select/11_生きる_人間椅子.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "生きる",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/12_生きる_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "生きる・愛する・うんこする (with うんコーラス隊)",
+      "artist": "tofubeats",
+      "has_synced": true,
+      "path": "select/13_生きる・愛する・うんこする_(with_うんコーラス隊)_tofubeats.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "生きる",
+      "artist": "安野 希世乃",
+      "has_synced": true,
+      "path": "select/14_生きる_安野_希世乃.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "生きる",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_生きる_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "生きる",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_02_生きる_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "生きる",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_03_生きる_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "生きる",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_04_生きる_東京事変.txt"
+    }
+  ]
+}
